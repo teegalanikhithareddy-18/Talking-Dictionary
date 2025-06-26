@@ -1,6 +1,6 @@
-# Talking Dictionary (Offline Version) 📘🔊
+# Talking Dictionary  📘🔊
 
-An offline Python dictionary using `nltk`'s WordNet corpus. Users type a word and the program reads out its definition using `pyttsx3` text-to-speech.
+An Python dictionary using `nltk`'s WordNet corpus. Users type a word and the program reads out its definition using `pyttsx3` text-to-speech.
 
 ## Features
 - Fully offline (no internet needed)
